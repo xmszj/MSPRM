@@ -114,8 +114,3 @@ MSPRM/
 
 This project is intended for research and educational use. Please cite appropriately if used in published work.
 
-## Author
-
-**xmszj**
-
-GitHub: [https://github.com/xmszj](https://github.com/xmszj)
